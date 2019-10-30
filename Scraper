@@ -1,0 +1,6 @@
+Easy_install pip 19.1.1
+Sudo pip stinall BeautifulSoup4
+install requests
+python 
+import requests url https://mshp.dps.missouri.gov/HP68/SearchAction
+
